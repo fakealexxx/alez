@@ -19,7 +19,6 @@ end
 
 local function showUnsupported()
     local message = string.format(
-        "Kicked by moderator\n\n"
         .. "This game is not supported by Alez.\n\n"
         .. "PlaceId: %d\n"
         .. "GameId: %d",
